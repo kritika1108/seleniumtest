@@ -16,9 +16,9 @@ public class WindowHandlesassignment {
 		driver.findElement(By.xpath("//a[contains(text(),'Click Here')]")).click();
 		
 	
-		
-	//String[] car= new String[2]{"a", "b"};
-	
+		System.out.println("test");
+	   //String[] car= new String[2];
+	 //Firs
 		
 		
 
